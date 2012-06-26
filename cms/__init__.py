@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-__version__ = '2.3rc2'
+__version__ = '2.3rc2_tremmert_prod_patched'
 
 # patch settings 
 try:
